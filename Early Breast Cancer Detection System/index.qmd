@@ -1,0 +1,35 @@
+---
+title: "Early Breast Cancer Detection System Using Deep Learning"
+description: "Breast cancer, a major cause of death among Bangladeshi women, particularly premenopausal, is often diagnosed late due to limited awareness and healthcare access. The proposed solution involves developing a deep learning based early breast cancer detection system to improve patient outcomes, diagnostic accuracy, and efficiency."
+image: featured.png
+image-height: "500"
+image-width: "1400"
+categories:
+  - Dashboard
+  - Visualization
+  - Deangue 
+---
+
+## Problem
+Breast cancer, a major cause of death among Bangladeshi women, particularly premenopausal, is often diagnosed late due to limited awareness and healthcare access. The proposed solution involves developing a deep learning based early breast cancer detection system to improve patient outcomes, diagnostic accuracy, and efficiency.
+
+Implementing a deep learning system for early breast cancer detection could substantially improve early diagnosis and treatment, addressing the current challenge of late detection in Bangladeshi women.
+
+## Evidence supporting the problem
+Studies indicate that late-stage breast cancer diagnosis is common in Bangladesh, leading to poorer prognosis and increased treatment costs. Deep learning-based system have demonstrated promising results in detecting breast cancer from medical imaging data, offering a potential solution to improve early detection rates.
+
+Deep learning offers a promising avenue for mitigating late-stage breast cancer diagnoses in Bangladesh through improved early detection.
+
+## Economic Significance of the Problem
+Late-stage breast cancer diagnoses impose significant economic burdens on individuals and the healthcare system in Bangladesh due to higher treatment costs and mortality. Investing in deep learning-based early detection system can lead to cost savings by enabling timely interventions and reducing long-term healthcare expenditures.
+
+## Solution Design
+Develop a deep learning-based system for the early detection of breast cancer using medical imaging data such as mammograms. Convolutional neural networks (CNNs) and other deep learning architectures will be utilized to analyze medical images and identify early signs of breast cancer with high accuracy and efficiency. Implementation of advanced techniques such as transfer learning and ensemble methods to enhance the performance on diverse datasets.
+
+The solution design aligns with industry best practices for efficient and modern breast cancer detection system with the help of AI.
+
+## Innovation/Novelty
+The incorporation of deep learning-based breast cancer system into healthcare is innovative and addresses a gap both in the software market and healthcare research in Bangladesh.
+
+The solution demonstrates high accuracy and efficiency in improving traditional breast cancer detection processes.
+
